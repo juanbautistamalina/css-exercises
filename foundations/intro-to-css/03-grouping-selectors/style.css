@@ -1,1 +1,13 @@
-/* Add CSS Styling */
+button {
+  font-family: Helvetica, "Times News Roman", sans-serif;
+  font-size: 28px;
+}
+
+button.black {
+  background-color: black;
+  color: white;
+}
+
+button.white {
+  background-color: yellow;
+}
