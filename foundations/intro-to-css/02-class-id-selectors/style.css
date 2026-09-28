@@ -4,16 +4,16 @@
 }
 
 .odd.medium,
-.even.medium {
+.even#medium {
   font-size: 24px;
 }
 
-.even.big {
+.even#big {
   font-size: 36px;
   color: #00f;
 }
 
-.even.medium {
+.even#medium {
   background-color: #80ff80;
   font-weight: bold;
 }
